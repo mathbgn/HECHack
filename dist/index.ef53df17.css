@@ -1,0 +1,931 @@
+.desktop {
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  display: flex;
+}
+
+.desktop .div {
+  background-color: #fff;
+  width: 1440px;
+  height: 1683px;
+  position: relative;
+}
+
+.desktop .overlap {
+  width: 1440px;
+  height: 453px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .screenshot {
+  width: 1440px;
+  height: 451px;
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+
+.desktop .frame {
+  width: 1440px;
+  height: 59px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .auto-layout {
+  align-items: center;
+  gap: 24px;
+  padding: 0 10px 0 0;
+  display: inline-flex;
+  position: absolute;
+  top: 17px;
+  left: 24px;
+}
+
+.desktop .group {
+  background-image: url("mark.a9872d98.png");
+  background-size: 100% 100%;
+  width: 18px;
+  height: 25px;
+  position: relative;
+}
+
+.desktop .frame-2 {
+  width: 300.56px;
+  height: 17px;
+  position: relative;
+}
+
+.desktop .text-wrapper {
+  color: #6e6e80;
+  letter-spacing: 0;
+  height: 17px;
+  font-family: Figtree, Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  left: 0;
+}
+
+.desktop .text-wrapper-2 {
+  color: #6e6e80;
+  letter-spacing: 0;
+  height: 17px;
+  font-family: Figtree, Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  left: 125px;
+}
+
+.desktop .text-wrapper-3 {
+  color: #6e6e80;
+  letter-spacing: 0;
+  height: 17px;
+  font-family: Figtree, Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  left: 240px;
+}
+
+.desktop .frame-3 {
+  align-items: center;
+  gap: 25px;
+  display: inline-flex;
+  position: absolute;
+  top: 14px;
+  left: 1209px;
+}
+
+.desktop .text-wrapper-4 {
+  color: #6e6e80;
+  letter-spacing: 0;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: Figtree, Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+}
+
+.desktop .div-wrapper {
+  background-color: #5775ee;
+  border-radius: 3px;
+  width: 120px;
+  height: 32px;
+  position: relative;
+}
+
+.desktop .text-wrapper-5 {
+  color: #fff;
+  letter-spacing: 0;
+  white-space: nowrap;
+  height: 20px;
+  font-family: Figtree, Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  left: 11px;
+}
+
+.desktop .group-2 {
+  width: 546px;
+  height: 230px;
+  position: absolute;
+  top: 156px;
+  left: 435px;
+}
+
+.desktop .text-wrapper-6 {
+  color: #000;
+  letter-spacing: 0;
+  text-shadow: 1px 1px 10px #fff;
+  height: 77px;
+  font-family: Figtree, Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .get-acknowledged-get {
+  color: #000;
+  letter-spacing: -.2px;
+  text-align: center;
+  text-shadow: 1px 1px 10px #fff;
+  height: 66px;
+  font-family: Inter, Helvetica;
+  font-size: 20.1px;
+  font-weight: 500;
+  line-height: 33px;
+  position: absolute;
+  top: 77px;
+  left: 43px;
+}
+
+.desktop .frame-4 {
+  align-items: center;
+  gap: 10px;
+  display: inline-flex;
+  position: absolute;
+  top: 176px;
+  left: 201px;
+}
+
+.desktop .text-wrapper-7 {
+  color: #000;
+  letter-spacing: -.2px;
+  text-align: center;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: Inter, Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 33px;
+  position: relative;
+}
+
+.desktop .tezos-logo {
+  width: 40px;
+  height: 54px;
+  position: relative;
+}
+
+.desktop .frame-5 {
+  background-color: #fff;
+  width: 1440px;
+  height: 58px;
+  position: absolute;
+  top: 453px;
+  left: 0;
+}
+
+.desktop .text-wrapper-8 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  height: 24px;
+  font-family: Inter, Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  position: absolute;
+  top: 14px;
+  left: 24px;
+}
+
+.desktop .text-wrapper-9 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  height: 24px;
+  font-family: Inter, Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  position: absolute;
+  top: 14px;
+  left: 139px;
+}
+
+.desktop .span-statusfilters {
+  background-color: #0000000a;
+  border-radius: 6px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+  top: 17px;
+  left: 107px;
+}
+
+.desktop .text-wrapper-10 {
+  color: #666;
+  letter-spacing: -.2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 5px;
+  height: 17px;
+  font-family: Inter, Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+  position: absolute;
+  top: 1px;
+  left: 8px;
+}
+
+.desktop .span-statusfilters-2 {
+  background-color: #0000000a;
+  border-radius: 6px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+  top: 17px;
+  left: 195px;
+}
+
+.desktop .div-statusfilters {
+  background-color: #0000001a;
+  border-radius: 1px;
+  width: 2px;
+  height: 17px;
+  position: absolute;
+  top: 20px;
+  left: 227px;
+}
+
+.desktop .div-statusfilters-2 {
+  border-color: #14161b;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  width: 98px;
+  height: 45px;
+  position: absolute;
+  top: 12px;
+  left: 241px;
+}
+
+.desktop .text-wrapper-11 {
+  color: #14161b;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  width: 72px;
+  height: 24px;
+  font-family: Inter, Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+
+.desktop .span-statusfilters-3 {
+  background-color: #f5f5f5;
+  border-radius: 6px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+  top: 5px;
+  left: 78px;
+}
+
+.desktop .text-wrapper-12 {
+  color: #14161b;
+  letter-spacing: -.2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 16px;
+  height: 17px;
+  font-family: Inter, Helvetica;
+  font-size: 11.9px;
+  font-weight: 700;
+  line-height: 21px;
+  position: absolute;
+  top: 1px;
+  left: 2px;
+}
+
+.desktop .overlap-group {
+  border-radius: 10px;
+  width: 312px;
+  height: 38px;
+  position: absolute;
+  top: 10px;
+  left: 1063px;
+}
+
+.desktop .input {
+  background-color: #fff;
+  border: 1px solid #0000001a;
+  border-radius: 10px;
+  width: 312px;
+  height: 38px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 12px #00000008;
+}
+
+.desktop .div-placeholder {
+  color: #14161b40;
+  letter-spacing: 0;
+  background: none;
+  border: none;
+  width: 254px;
+  height: 19px;
+  padding: 0;
+  font-family: Inter, Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  top: 10px;
+  left: 41px;
+}
+
+.desktop .SVG {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 10px;
+  left: 12px;
+}
+
+.desktop .div-card-card {
+  background: url("div-card-card-1ee8r-2.3669ee17.svg") 50% / cover;
+  border: 1px solid #0000001a;
+  border-radius: 24px;
+  width: 472px;
+  height: 230px;
+  position: absolute;
+  top: 571px;
+  left: 202px;
+}
+
+.desktop .div-roundcard {
+  width: 470px;
+  height: 145px;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+
+.desktop .overlap-group-2 {
+  width: 422px;
+  height: 53px;
+  position: absolute;
+  top: 8px;
+  left: 24px;
+}
+
+.desktop .div-roundcard-2 {
+  width: 422px;
+  height: 33px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .div-roundcard-3 {
+  width: 233px;
+  height: 33px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .p {
+  color: #14161b;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  height: 33px;
+  font-family: Inter, Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 33px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+}
+
+.desktop .span-statuspill {
+  background-color: #50ba9a1a;
+  border: 1px solid #50ba9a;
+  border-radius: 10px;
+  width: 80px;
+  height: 28px;
+  position: absolute;
+  top: 3px;
+  left: 350px;
+}
+
+.desktop .text-wrapper-13 {
+  color: #50ba9a;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  width: 39px;
+  height: 17px;
+  font-family: Inter, Helvetica;
+  font-size: 12.9px;
+  font-weight: 600;
+  line-height: 21px;
+  position: absolute;
+  top: 5px;
+  left: 21px;
+}
+
+.desktop .div-roundcard-4 {
+  width: 217px;
+  height: 33px;
+  position: absolute;
+  top: 20px;
+  left: 0;
+}
+
+.desktop .text-wrapper-14 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  height: 33px;
+  font-family: Inter, Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 33px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+}
+
+.desktop .span-roundcard {
+  width: 422px;
+  height: 72px;
+  position: absolute;
+  top: 66px;
+  left: 24px;
+  overflow: hidden;
+}
+
+.desktop .bringing-together {
+  color: #666;
+  letter-spacing: -.2px;
+  width: 421px;
+  height: 67px;
+  font-family: Inter, Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  position: absolute;
+  top: 1px;
+  left: -1px;
+}
+
+.desktop .div-roundcard-5 {
+  background: linear-gradient(#fcfcfc 0%, #fff 100%);
+  border-color: #0000000a;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-radius: 0 0 24px 24px;
+  width: 470px;
+  height: 83px;
+  position: absolute;
+  top: 146px;
+  left: 1px;
+}
+
+.desktop .div-2 {
+  width: 119px;
+  height: 42px;
+  position: absolute;
+  top: 19px;
+  left: 24px;
+}
+
+.desktop .p-roundcard-title {
+  width: 46px;
+  height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-15 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  width: 46px;
+  height: 17px;
+  font-family: Inter, Helvetica;
+  font-size: 12.6px;
+  font-weight: 700;
+  line-height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .p-roundcard-info {
+  width: 102px;
+  height: 23px;
+  position: absolute;
+  top: 19px;
+  left: 0;
+}
+
+.desktop .text-wrapper-16 {
+  color: #14161b;
+  letter-spacing: .32px;
+  white-space: nowrap;
+  width: 102px;
+  height: 19px;
+  font-family: Inter, Helvetica;
+  font-size: 14.5px;
+  font-weight: 700;
+  line-height: 23px;
+  position: absolute;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .div-roundcard-6 {
+  border: 1px solid #0000000a;
+  border-radius: 1px;
+  width: 2px;
+  height: 42px;
+  position: absolute;
+  top: 19px;
+  left: 158px;
+}
+
+.desktop .div-3 {
+  width: 119px;
+  height: 42px;
+  position: absolute;
+  top: 19px;
+  left: 175px;
+}
+
+.desktop .p-roundcard-title-2 {
+  width: 84px;
+  height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-17 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  width: 84px;
+  height: 17px;
+  font-family: Inter, Helvetica;
+  font-size: 12.9px;
+  font-weight: 700;
+  line-height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .p-roundcard-info-2 {
+  width: 84px;
+  height: 23px;
+  position: absolute;
+  top: 19px;
+  left: 0;
+}
+
+.desktop .text-wrapper-18 {
+  color: #14161b;
+  letter-spacing: .32px;
+  white-space: nowrap;
+  width: 67px;
+  height: 19px;
+  font-family: Inter, Helvetica;
+  font-size: 14.8px;
+  font-weight: 700;
+  line-height: 23px;
+  position: absolute;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .div-roundcard-7 {
+  border: 1px solid #0000000a;
+  border-radius: 1px;
+  width: 2px;
+  height: 42px;
+  position: absolute;
+  top: 19px;
+  left: 310px;
+}
+
+.desktop .overlap-group-wrapper {
+  width: 119px;
+  height: 42px;
+  position: absolute;
+  top: 19px;
+  left: 327px;
+}
+
+.desktop .overlap-group-3 {
+  width: 60px;
+  height: 41px;
+  position: relative;
+}
+
+.desktop .p-roundcard-title-3 {
+  width: 60px;
+  height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-19 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  width: 60px;
+  height: 17px;
+  font-family: Inter, Helvetica;
+  font-size: 12.7px;
+  font-weight: 700;
+  line-height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-20 {
+  color: #14161b;
+  letter-spacing: .32px;
+  white-space: nowrap;
+  width: 19px;
+  height: 23px;
+  font-family: Inter, Helvetica;
+  font-size: 14.5px;
+  font-weight: 700;
+  line-height: 23px;
+  position: absolute;
+  top: 18px;
+  left: 0;
+}
+
+.desktop .div-card-card-eer {
+  background: url("div-card-card-1ee8r-1.013271ee.svg") 50% / cover;
+  border: 1px solid #0000001a;
+  border-radius: 24px;
+  width: 472px;
+  height: 230px;
+  position: absolute;
+  top: 843px;
+  left: 765px;
+}
+
+.desktop .div-card-card-2 {
+  background: url("div-card-card-1ee8r.543c56be.svg") 50% / cover;
+  border: 1px solid #0000001a;
+  border-radius: 24px;
+  width: 472px;
+  height: 230px;
+  position: absolute;
+  top: 1115px;
+  left: 202px;
+}
+
+.desktop .div-card-card-3 {
+  background-color: #fff;
+  border: 1px solid #0000001a;
+  border-radius: 24px;
+  width: 472px;
+  height: 230px;
+  position: absolute;
+  top: 571px;
+  left: 765px;
+}
+
+.desktop .div-roundcard-8 {
+  width: 422px;
+  height: 33px;
+  position: absolute;
+  top: 14px;
+  left: 24px;
+}
+
+.desktop .div-roundcard-9 {
+  width: 151px;
+  height: 33px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-21 {
+  color: #14161b;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  width: 151px;
+  height: 27px;
+  font-family: Inter, Helvetica;
+  font-size: 19.9px;
+  font-weight: 700;
+  line-height: 33px;
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+
+.desktop .span-statuspill-2 {
+  background-color: #f5f5f5;
+  border: 1px solid #0000000a;
+  border-radius: 10px;
+  width: 87px;
+  height: 28px;
+  position: absolute;
+  top: 0;
+  left: 343px;
+}
+
+.desktop .text-wrapper-22 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  height: 21px;
+  font-family: Inter, Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 21px;
+  position: absolute;
+  top: 3px;
+  left: 12px;
+}
+
+.desktop .an-open-round-where-wrapper {
+  width: 422px;
+  height: 72px;
+  position: absolute;
+  top: 59px;
+  left: 24px;
+}
+
+.desktop .an-open-round-where {
+  color: #666;
+  letter-spacing: -.2px;
+  width: 421px;
+  height: 67px;
+  font-family: Inter, Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 24px;
+  position: absolute;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .element-ETH-wrapper {
+  width: 72px;
+  height: 23px;
+  position: absolute;
+  top: 19px;
+  left: 0;
+}
+
+.desktop .element-ETH {
+  color: #0000;
+  letter-spacing: .32px;
+  white-space: nowrap;
+  width: 72px;
+  height: 19px;
+  font-family: Inter, Helvetica;
+  font-size: 14.6px;
+  font-weight: 400;
+  line-height: 23px;
+  position: absolute;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .span {
+  color: #14161b;
+  font-weight: 700;
+}
+
+.desktop .text-wrapper-23 {
+  color: #6669;
+  font-weight: 500;
+}
+
+.desktop .p-roundcard-title-4 {
+  width: 78px;
+  height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-24 {
+  color: #666;
+  letter-spacing: -.2px;
+  white-space: nowrap;
+  width: 78px;
+  height: 17px;
+  font-family: Inter, Helvetica;
+  font-size: 12.8px;
+  font-weight: 700;
+  line-height: 19px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.desktop .p-roundcard-info-3 {
+  width: 78px;
+  height: 23px;
+  position: absolute;
+  top: 19px;
+  left: 0;
+}
+
+.desktop .text-wrapper-25 {
+  color: #14161b;
+  letter-spacing: .32px;
+  white-space: nowrap;
+  width: 10px;
+  height: 23px;
+  font-family: Inter, Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 23px;
+  position: absolute;
+  top: 18px;
+  left: 0;
+}
+
+.desktop .div-card-card-4 {
+  background-color: #fff;
+  border: 1px solid #0000001a;
+  border-radius: 24px;
+  width: 472px;
+  height: 230px;
+  position: absolute;
+  top: 843px;
+  left: 202px;
+}
+
+.desktop .div-card-card-5 {
+  background-color: #fff;
+  border: 1px solid #0000001a;
+  border-radius: 24px;
+  width: 472px;
+  height: 230px;
+  position: absolute;
+  top: 1115px;
+  left: 765px;
+}
+
+/*# sourceMappingURL=index.ef53df17.css.map */
